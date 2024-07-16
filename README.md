@@ -8,7 +8,7 @@ In this project, let's build a **Nxt Trendz - Cart Features** by applying the co
     <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-cart-features-output.mp4" type="video/mp4">
   </video>
 </div>
-<br/>
+Video Link : https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-cart-features-output.mp4 <br/>
 
 ### Design Files
 
